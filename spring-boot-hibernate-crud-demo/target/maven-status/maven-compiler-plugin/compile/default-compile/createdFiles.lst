@@ -1,0 +1,6 @@
+com\task\demo\model\ProductEntity.class
+com\task\demo\web\ProductController.class
+com\task\demo\DemoApplication.class
+com\task\demo\repository\ProductRepository.class
+com\task\demo\service\ProductService.class
+com\task\demo\exception\RecordNotFoundException.class
